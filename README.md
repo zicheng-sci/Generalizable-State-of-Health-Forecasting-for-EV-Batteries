@@ -1,3 +1,3 @@
-# Generalizable-State-of-Health-Forecasting-for-EV-Batteries
+# Vision-powered generative paradigm for robust battery health prediction in real-world electric vehicles
 
-This repository is for the peer review of the paper 'Developing Generalizable State-of-Health Forecasting for Real Electric Vehicle Batteries with Deep Learning'.
+This repository contains code for the paper 'Vision-powered generative paradigm for robust battery health prediction in real-world electric vehicles'.
